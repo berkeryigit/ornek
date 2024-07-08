@@ -1,7 +1,7 @@
 Bugün sabah 8'de işe gelinecek.
-<<<<<<< HEAD
 Öğlen yemeği vakti 12'de olacak.
+
 Deneme
-=======
-Öğlen yemeği vakti 12'de olacak.
->>>>>>> ba318668e619d82db2ca56ed29a1046fe2d1a3ba
+
+
+
